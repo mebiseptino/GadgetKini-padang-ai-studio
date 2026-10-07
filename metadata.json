@@ -1,0 +1,7 @@
+{
+  "name": "GadgetKini Padang",
+  "description": "Toko affiliate Shopee gadget viral di Padang dengan harga termurah, tombol cek Shopee, chat WhatsApp, dan AI asisten gadget bahasa Padang Gen Z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
